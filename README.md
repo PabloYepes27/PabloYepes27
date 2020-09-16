@@ -3,6 +3,7 @@
 <h2 align="center"><a id="About_me_6"></a>About me :bust_in_silhouette:</h2>
 <p align="center">:triangular_ruler: maths | :earth_americas: Travel | :computer: Programming</p>
 <h2 align="center"><a id="Social_media_mailbox_with_no_mail_15"></a>Social media :mailbox_with_no_mail:</h2>
+<p align="center">
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 <!-- display the social media buttons in your README -->
@@ -32,3 +33,4 @@
 [6]: https://github.com/PabloYepes27
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+</p>
