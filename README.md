@@ -1,16 +1,34 @@
-### Hi there 👋
+<h1 align="center"><a id="Hi_Im_Alejandro_chicken_0"></a>&nbsp;Hello World, I’m Juan Pablo :wave:</h1>
+<p align="center">Full-Stack Software Developer. :robot:</p>
+<h2 align="center"><a id="About_me_6"></a>About me :bust_in_silhouette:</h2>
+<p align="center">:triangular_ruler: maths | :earth_americas: Travel | :computer: Programming</p>
+<h2 align="center"><a id="Social_media_mailbox_with_no_mail_15"></a>Social media :mailbox_with_no_mail:</h2>
+<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
-<!--
-**PabloYepes27/PabloYepes27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- display the social media buttons in your README -->
 
-Here are some ideas to get you started:
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+[![alt text][4.1]][4]
+[![alt text][6.1]][6]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<!-- links to social media icons -->
+<!-- no need to change these -->
+
+<!-- icons with padding -->
+
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
+[4.1]: https://i.imgur.com/0IdggSZ.png (tumblr icon with padding)
+[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+
+<!-- links to your social media accounts -->
+<!-- update these accordingly -->
+
+[1]: https://twitter.com/pabloyepes27
+[2]: https://www.facebook.com/juanpablo.yepestamayo/
+[4]: https://www.linkedin.com/in/pablo-yepes-120495/
+[6]: https://github.com/PabloYepes27
+
+<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
