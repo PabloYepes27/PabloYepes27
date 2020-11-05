@@ -10,22 +10,10 @@
 <div align="center">
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
-
-<!-- links to your social media accounts -->
-<!-- update these accordingly -->
-
-[1]: 
-[2]: 
-[4]: 
-[6]: 
-
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-</div>
-
-
+<div align="center">
 ## Github Status
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloYepes27&hide=TSQL)](https://github.com/PabloYepes27/github-readme-stats)
-
+</div>
 <!-- display the social media buttons in your README -->
 
 <p align="center">
