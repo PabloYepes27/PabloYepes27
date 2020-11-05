@@ -2,11 +2,10 @@
 <head>
   <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;400&display=swap" rel="stylesheet">
 </head>
-<h1 align="center"><a id="Hi_Im_Juan_yepes"></a>&nbsp;Hello World, I’m Juan Pablo :wave:</h1>
+# Hello World, I’m Juan Pablo
 <p align="center">Full-Stack Software Developer. :robot:</p>
-<h2 align="center"><a id="About_me_6"></a>About me</h2>
+## About Me
 <p align="center">:triangular_ruler: maths | :earth_americas: Travel | :computer: Programming</p>
-<h2 align="center"><a id="Social_media_mailbox_with_no_mail_15"></a>Social media</h2>
 <div align="center">
   
  ## My skills
@@ -24,6 +23,7 @@
 
 <!-- display the social media buttons in your README -->
 
+ ## Social Media
 <p align="center">
 <a href="https://twitter.com/pabloyepes27" target="blank"><img align="center" src="https://www.flaticon.es/svg/static/icons/svg/733/733579.svg" alt="@pabloyepes27" height="35" width="35" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/pabloyepes27/" target="blank"><img align="center" src="https://www.flaticon.es/svg/static/icons/svg/174/174857.svg" alt="pabloyepes27" height="35" width="35" /></a>&nbsp;
