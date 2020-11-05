@@ -1,3 +1,7 @@
+<img src="https://github.com/PabloYepes27/PabloYepes27/blob/master/65939084_1254876944688913_8745357462598582272_o.jpg" alt="banner" width="100%"/>
+<head>
+  <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;400&display=swap" rel="stylesheet">
+</head>
 <h1 align="center"><a id="Hi_Im_Alejandro_chicken_0"></a>&nbsp;Hello World, I’m Juan Pablo :wave:</h1>
 <p align="center">Full-Stack Software Developer. :robot:</p>
 <h2 align="center"><a id="About_me_6"></a>About me :bust_in_silhouette:</h2>
@@ -6,31 +10,26 @@
 <div align="center">
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
-<!-- display the social media buttons in your README -->
-
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-[![alt text][4.1]][4]
-[![alt text][6.1]][6]
-
-
-<!-- links to social media icons -->
-<!-- no need to change these -->
-
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
-[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
 
-[1]: https://twitter.com/pabloyepes27
-[2]: https://www.facebook.com/juanpablo.yepestamayo/
-[4]: https://www.linkedin.com/in/pablo-yepes-120495/
-[6]: https://github.com/PabloYepes27
+[1]: 
+[2]: 
+[4]: 
+[6]: 
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 </div>
+
+
+## Github Status
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloYepes27&hide=TSQL)](https://github.com/PabloYepes27/github-readme-stats)
+
+<!-- display the social media buttons in your README -->
+
+<p align="center">
+<a href="https://twitter.com/pabloyepes27" target="blank"><img align="center" src="https://www.flaticon.es/svg/static/icons/svg/733/733579.svg" alt="@pabloyepes27" height="35" width="35" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/pabloyepes27/" target="blank"><img align="center" src="https://www.flaticon.es/svg/static/icons/svg/174/174857.svg" alt="pabloyepes27" height="35" width="35" /></a>&nbsp;
+<a href="https://www.facebook.com/juanpablo.yepestamayo/" target="blank"><img align="center" src="https://www.flaticon.es/svg/static/icons/svg/733/733547.svg" alt="pabloepes27" height="35" width="35" /></a>
+</p>
