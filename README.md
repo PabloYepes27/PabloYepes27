@@ -2,11 +2,13 @@
 <head>
   <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;400&display=swap" rel="stylesheet">
 </head>
+<div align="center">
+  
 # Hello World, I’m Juan Pablo
 <p align="center">Full-Stack Software Developer. :robot:</p>
 ## About Me
 <p align="center">:triangular_ruler: maths | :earth_americas: Travel | :computer: Programming</p>
-<div align="center">
+
   
  ## My skills
  <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="30" height="30"/>
