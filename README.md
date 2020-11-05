@@ -6,7 +6,7 @@
 <div align="center">
   
 # Hello World, I’m Juan Pablo
-<p align="center">Full-Stack Software Developer. :robot:</p>
+<p align="center"> Software Developer | Civil Engineer | ML Enthusiast. :robot:</p>
 
 ## About Me
 <p align="center">:triangular_ruler: maths | :earth_americas: Travel | :computer: Programming</p>
