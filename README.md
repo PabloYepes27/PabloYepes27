@@ -2,11 +2,11 @@
 <head>
   <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;400&display=swap" rel="stylesheet">
 </head>
-<h1 align="center"><a id="Hi_Im_Alejandro_chicken_0"></a>&nbsp;Hello World, I’m Juan Pablo :wave:</h1>
+<h1 align="center"><a id="Hi_Im_Juan_yepes"></a>&nbsp;Hello World, I’m Juan Pablo :wave:</h1>
 <p align="center">Full-Stack Software Developer. :robot:</p>
-<h2 align="center"><a id="About_me_6"></a>About me :bust_in_silhouette:</h2>
+<h2 align="center"><a id="About_me_6"></a>About me</h2>
 <p align="center">:triangular_ruler: maths | :earth_americas: Travel | :computer: Programming</p>
-<h2 align="center"><a id="Social_media_mailbox_with_no_mail_15"></a>Social media :mailbox_with_no_mail:</h2>
+<h2 align="center"><a id="Social_media_mailbox_with_no_mail_15"></a>Social media</h2>
 <div align="center">
   
  ## My skills
