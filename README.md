@@ -10,10 +10,10 @@
 <div align="center">
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
-<div align="center">
+
 ## Github Status
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloYepes27&hide=TSQL)](https://github.com/PabloYepes27/github-readme-stats)
-</div>
+
 <!-- display the social media buttons in your README -->
 
 <p align="center">
@@ -21,3 +21,4 @@
 <a href="https://www.linkedin.com/in/pabloyepes27/" target="blank"><img align="center" src="https://www.flaticon.es/svg/static/icons/svg/174/174857.svg" alt="pabloyepes27" height="35" width="35" /></a>&nbsp;
 <a href="https://www.facebook.com/juanpablo.yepestamayo/" target="blank"><img align="center" src="https://www.flaticon.es/svg/static/icons/svg/733/733547.svg" alt="pabloepes27" height="35" width="35" /></a>
 </p>
+</div>
