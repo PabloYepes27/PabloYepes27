@@ -13,12 +13,6 @@
 
   
  ## My skills
- <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="30" height="30"/>
- <img src="https://devicon.dev/devicon.git/icons/python/python-original.svg" alt="python" width="30" height="30"/>
- <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/>
- <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
- <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/>
- <img src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" alt="css3" width="30" height="30"/>
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 
